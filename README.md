@@ -49,7 +49,7 @@ The EU has funded several research projects to improve computational legal analy
 
 - **Automatic judgment prediction via legal reading comprehension**(2018), Shangbang Long et al. [[PDF](https://arxiv.org/pdf/1809.06537.pdf)]  
 
-- **CAIL2018: A Large-Scale Legal Dataset for Judgment Prediction**(2018), Chaojun Xiao et al. [[PDF](https://arxiv.org/pdf/1807.02478.pdf)]  
+- **CAIL2018 \[Chinese AI & Law Challenge]: A Large-Scale Legal Dataset for Judgment Prediction**(2018), Chaojun Xiao et al. [[PDF](https://arxiv.org/pdf/1807.02478.pdf)]  
 
 - **Few-shot charge prediction with discriminative legal attributes**(2018), Zikun Hu et al. [[PDF](http://aclweb.org/anthology/C18-1041)] [[Code](https://github.com/thunlp/attribute_charge)]  
 
@@ -84,7 +84,7 @@ The Chat Analysis Triage Tool (CATT) is an investigative tool based on natural l
 
 - **Deep learning in law: early adaptation and legal word embeddings trained on large corpora**(2019), Ilias Chalkidis et al. [[PDF](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
 
-- **Semi-automatic knowledge population in a legal document management system**(2019), Guido Boella et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 227-251. DOI:10.1007/s10506-018-9239-8  [PDF](https://scholar.google.com/scholar?hl=en&lr=&q=Recurrent%20neural%20network-based%20models%20for%20recognizing%20requisite%20and%20effectuation%20parts%20in%20legal%20texts+author%3ANguyen)
+- **Semi-automatic knowledge population in a legal document management system**(2019), Guido Boella et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 227-251. DOI:10.1007/s10506-018-9239-8  [[PDF]](https://scholar.google.com/scholar?hl=en&lr=&q=Recurrent%20neural%20network-based%20models%20for%20recognizing%20requisite%20and%20effectuation%20parts%20in%20legal%20texts+author%3ANguyen)
 
 ----------
 ### Project ###
