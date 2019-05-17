@@ -1,7 +1,7 @@
 ## Data Science and Law
-The intersection between machine learning and the law has many names, _e.g._ computational law, legal analytics, legal informatics, or empirical legal studies. The automation can help improve many aspects of the law. Programs can review contracts to identify risks and problematic language, make predictions about the outcomes of legal proceedings, and help law enforcement identify criminal behavior. Lawyer-bots can answer simple questions. But, in order to apply probabilistic models to the law, you need to understand legal language.  
+The intersection between machine learning and the law has many names, _e.g._ computational law, legal analytics, legal informatics, or empirical legal studies. AI automation can help improve many aspects of the law. Programs can review contracts to identify risks and problematic language, assist with discovery, make predictions about the outcomes of legal proceedings, and help law enforcement identify criminal behavior. Lawyer-bots can even answer simple questions. But, in order to apply probabilistic models to the law, you need to understand legal language.  
 
-This repository highlights recent natural language processing (NLP) related work in the field of law. This overview focuses primarily on applying NLP techniques to publicly accessible legal text to improve both, access to and understanding of, the law.  
+This repository highlights recent natural language processing (NLP) related work in the field of law. Applying NLP techniques to publicly accessible legal text to improve both, access to and understanding of, the law is especially important. Although, applying machine learning to the law is still quite new, it will likely become a disruptive force in the legal service industry.  
 
 __Example projects__   
 
@@ -16,6 +16,8 @@ The [American Constitution Society for Law and Policy](https://www.acslaw.org) c
 The [Legislative Explorer](http://www.legex.org/index.html) from the [Center for American Politics and Public Policy](http://cappp.org) at the University of Washington is an "interactive visualization that allows anyone to explore actual patterns of lawmaking in Congress." The congressional bill data comes from the [Congeessional Bills Project](http://congressionalbills.org).  
 
 __Example companies__  
+
+[Bloomberg Law](https://pro.bloomberglaw.com/ai-analytics/) provides several AI tools along with 13+ million published and unpublished state and federal court opinions. With "Litigation Analytics," users can search by company, law firm, attorney, and judge, then "[v]isualize trends, predict outcomes, and develop an informed strategy." "Points of Law" applies machine learning to case law research so users can "[q]uickly find the leading case, the essence of a court’s holding, and the best language to support your legal argument."  
 
 [Ravel](https://home.ravellaw.com) uses data visualization to show how the case law evolved and how legal topics cluster. Before Ravel was purchased by LexisNexus, it was a Codex Affiliate Project.  
 
