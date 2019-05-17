@@ -17,6 +17,9 @@ The EU has funded several research projects to improve computational legal analy
 
 - **Lexical-Morphological Modeling for Legal Text Analysis** (2016), Danilo S. Carvalhol et al., DOI: 10.1007/978-3-319-50953-2 [[PDF]](https://www.researchgate.net/publication/305400373_Lexical-Morphological_Modeling_for_Legal_Text_Analysis)  
 
+- **Matching law cases and reference law provision with a neural attention model** (2016) G Tang et al., IBM China Research, Beijing [[PDF](https://scholar.google.com/scholar_lookup?title=Matching%20law%20cases%20and%20reference%20law%20provision%20with%20a%20neural%20attention%20model&author=G.%20Tang&author=H.%20Guo&author=Z.%20Guo&author=S.%20Xu&publication_year=2016)]  
+From Abstract: Due to the semantic complexity of law provisions and law cases, traditional methods cannot precisely characterize the deep semantic distribution of legal cases. In this paper, we propose a neural attention model for automatically matching reference law provisions. In this proposed model, a word by word attention mechanism is used to calculate pairwise comparisons between cases and law provisions, and then an output LSTM layer is used to summarize the comparisons and output the labels.  
+
 #### &nbsp;&nbsp;&nbsp;2017 ####
 
 - **Applying Deep Neural Network to Retrieve Relevant Civil Law Articles** (2017), Anh Hang Nga Tran et al. [[PDF](https://aclanthology.info/papers/R17-2007/r17-2007)]  
@@ -80,18 +83,20 @@ The EU has funded several research projects to improve computational legal analy
 #### &nbsp;&nbsp;&nbsp;2019 ####
 
 - **Chat Analysis Triage Tool: Differentiating contact-driven vs. fantasy-driven child sex offenders** (2019), Kathryn C Seigfried-Spellar et al. Forensic Science International (Online); DOI:10.1016/j.forsciint.2019.02.028  
-The Chat Analysis Triage Tool (CATT) is an investigative tool based on natural language processing methods, for analyzing and comparing chats between minors and contact-driven vs. non-contract driven offenders. Using an SVM classifier, classes were differentiated based on character trigrams. The algorithms provide an identification of an offender’s risk level based on the likelihood of contact offending as inferred from the model, which assists law enforcement in the triage and prioritization of cases involving the sexual solicitation of minors.  
+From Abstract: The Chat Analysis Triage Tool (CATT) is an investigative tool based on natural language processing methods, for analyzing and comparing chats between minors and contact-driven vs. non-contract driven offenders. Using an SVM classifier, classes were differentiated based on character trigrams. The algorithms provide an identification of an offender’s risk level based on the likelihood of contact offending as inferred from the model, which assists law enforcement in the triage and prioritization of cases involving the sexual solicitation of minors.  
 
-- **CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service** (2019), Marco Lippi et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 117-139. [[PDF]](https://arxiv.org/pdf/1805.01217.pdf)
+- **CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service** (2019), Marco Lippi et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 117-139. [[PDF]](https://arxiv.org/pdf/1805.01217.pdf)  
+From Abstract: Terms of service of on-line platforms often contain clauses that are potentially unfair to the consumer. This paper describes an experimental study where machine learning is employed to automatically detect such potentially unfair clauses. Results show that the proposed system could provide a valuable tool for lawyers and consumers.  
 
-- **Deep learning in law: early adaptation and legal word embeddings trained on large corpora** (2019), Ilias Chalkidis et al. [[Citation](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
+- **Deep learning in law: early adaptation and legal word embeddings trained on large corpora** (2019), Ilias Chalkidis et al., 27: 171. https://doi.org/10.1007/s10506-018-9238-9 [[Citation](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
+From Abstract: In this survey, we study the early adaptation of Deep Learning in legal analytics focusing on three main fields; text classification, information extraction, and information retrieval. We focus on the semantic feature representations, a key instrument for the successful application of deep learning in natural language processing. Additionally, we share pre-trained legal word embeddings using the word2vec model over large corpora, comprised legislations from UK, EU, Canada, Australia, USA, and Japan
 
 - **Semi-automatic knowledge population in a legal document management system** (2019), Guido Boella et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 227-251. DOI:10.1007/s10506-018-9239-8  [[PDF]](https://scholar.google.com/scholar?hl=en&lr=&q=Recurrent%20neural%20network-based%20models%20for%20recognizing%20requisite%20and%20effectuation%20parts%20in%20legal%20texts+author%3ANguyen)
 
 ----------
 ### Project ###
 
-Classifying and comparing text from the Revised Code of Washington (RCW). To be updated.
+My current work employs NLP techniques to classify and compare text in Washington state's statutes, the Revised Code of Washington (RCW), and opinions from the Washington State Supreme Court. To be updated.  
 
 ### Future Work ###
 Possible issues for future study:  
