@@ -18,7 +18,7 @@ __Example companies__
 #### Repository Outline ####
   - [Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#papers)
   - [Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#project)  
-  - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future)
+  - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future work)
 
 ----------
 
