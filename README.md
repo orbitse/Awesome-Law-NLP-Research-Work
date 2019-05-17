@@ -1,18 +1,27 @@
-# Law and Natural Language Processing (NLP)
+## Law and Natural Language Processing (NLP)
 A discussion about recent NLP related research work in the field of law. Ideally, we will apply NLP techniques to publicly accessible legal text and improve both, access to and understanding of, the law. 
 The EU has funded several research projects to improve computational legal analysis for the public good, _e.g._ ‘MIREL: MIning and REasoning with Legal texts’—[http://www.mirelproject.eu](http://www.mirelproject.eu).  
+
 **`This repository will be updated gradually.`**
 
-----------
-### Outline ###
-  - [Papers](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#paper)
-  - [Project](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#project) 
+#### Outline ####
+  - [Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#papers)
+  - [Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#project)  
+  - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future)
 
 ----------
 
+### Papers ###
 
-## Papers ##
+#### &nbsp;&nbsp;&nbsp;2016 ####
+
+- **Lexical-Morphological Modeling for Legal Text Analysis**(2016), Carvalhol, Danilo S. et al. DOI: 10.1007/978-3-319-50953-2 [PDF](https://www.researchgate.net/publication/305400373_Lexical-Morphological_Modeling_for_Legal_Text_Analysis)  
+
 #### &nbsp;&nbsp;&nbsp;2017 ####
+
+-**A Convolutional Neural Network in Legal Question Answering**(2017), DOI: 10.1007/978-3-319-50953-2_20 [PDF](https://arxiv.org/pdf/1703.05320.pdf) 
+
+-**Extracting Contract Elements**(2017), Chalkidis, Ilias et al. [PDF](http://www2.aueb.gr/users/ion/docs/icail2017.pdf)
 
 - **Learning to predict charges for criminal cases with legal basis**(2017), Bingfeng Luo et al. [[PDF](http://aclweb.org/anthology/D17-1289)]  [[Blog](https://bamtercelboo.github.io/2018/07/19/Learning-to-Predict-Charges-for-Criminal-Cases-with-Legal-Basis/)] 
 
@@ -30,6 +39,7 @@ The EU has funded several research projects to improve computational legal analy
 
 - **Applying Deep Neural Network to Retrieve Relevant Civil Law Articles**(2017), Anh Hang Nga Tran et al. [[PDF](https://aclanthology.info/papers/R17-2007/r17-2007)]  
 
+- **Mining Legal Data: Collecting and Analyzing 21st Century Gold**(2017), K. A. Grady, Journal of Internet Law, vol. 20, (7), pp. 1-21.[Citation](https://www.researchgate.net/publication/313745865_Mining_Legal_Data_Collecting_and_Analyzing_21st_Century_Gold)  
 
 #### &nbsp;&nbsp;&nbsp;2018 ####
 
@@ -62,16 +72,17 @@ The EU has funded several research projects to improve computational legal analy
 - **Deep learning in law: early adaptation and legal word embeddings trained on large corpora**(2018), Ilias Chalkidis et al. [[PDF](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
 
 #### &nbsp;&nbsp;&nbsp;2019 ####
-- **Orientation analysis of judgment results based on deep learning**(2019), [[PDF]
+
+- **CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service**; Lippi, Marco; Pałka, Przemysław; Contissa, Giuseppe; Lagioia, Francesca; Hans-Wolfgang Micklitz; et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2,  (Jun 2019): 117-139. [PDF](https://arxiv.org/pdf/1805.01217.pdf)
 
 ----------
-## Project ##
+### Project ###
 
-To be updated later.
+To be updated.
 
 
-## Topics for Future Study ##
-
+### Future Work ###
+Ideas about issues for future study:  
 - improving access to annotated versions of statutes, ordinances, and regulations
 - provide legal text augmented with definitions and summaries available as the user reads the text
 
