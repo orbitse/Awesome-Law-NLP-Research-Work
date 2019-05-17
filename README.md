@@ -69,7 +69,7 @@ The EU has funded several research projects to improve computational legal analy
 
 - **Overview of cail2018: legal judgment prediction competition**(2018), Haoxi Zhong et al. [[PDF](https://arxiv.org/pdf/1810.05851.pdf)]   [[Code](https://github.com/thunlp/CAIL)]  
 
-- **Recurrent neural network-based models for recognizing requisite and effectuation parts in legal texts**(2018), N. Truong-Son et al., Artificial Intelligence and Law, vol. 26, (2), pp. 169-199 
+- **Recurrent neural network-based models for recognizing requisite and effectuation parts in legal texts**(2018), N. Truong-Son et al., Artificial Intelligence and Law, vol. 26, (2), pp. 169-199 [[PDF]](https://www.researchgate.net/publication/323989221_Recurrent_neural_network-based_models_for_recognizing_requisite_and_effectuation_parts_in_legal_texts)  
 
 - **Research and Design on Cognitive Computing Framework for Predicting Judicial Decisions**(2018), Jiajing Li et al. [[PDF](https://link.springer.com/article/10.1007/s11265-018-1429-9)]  
 
