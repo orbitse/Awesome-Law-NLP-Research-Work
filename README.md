@@ -51,8 +51,6 @@ The EU has funded several research projects to improve computational legal analy
 
 - **CAIL2018: A Large-Scale Legal Dataset for Judgment Prediction**(2018), Chaojun Xiao et al. [[PDF](https://arxiv.org/pdf/1807.02478.pdf)]  
 
-- **Deep learning in law: early adaptation and legal word embeddings trained on large corpora**(2018), Ilias Chalkidis et al. [[PDF](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
-
 - **Few-shot charge prediction with discriminative legal attributes**(2018), Zikun Hu et al. [[PDF](http://aclweb.org/anthology/C18-1041)] [[Code](https://github.com/thunlp/attribute_charge)]  
 
 - **Interpretable rationale augmented charge prediction system**(2018), Xin Jiang et al. [[PDF](http://aclweb.org/anthology/C18-2032)]  
@@ -77,7 +75,12 @@ The EU has funded several research projects to improve computational legal analy
 
 #### &nbsp;&nbsp;&nbsp;2019 ####
 
-- **CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service**; Lippi, Marco; Pałka, Przemysław; Contissa, Giuseppe; Lagioia, Francesca; Hans-Wolfgang Micklitz; et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2,  (Jun 2019): 117-139. [[PDF]](https://arxiv.org/pdf/1805.01217.pdf)
+- **Chat Analysis Triage Tool: Differentiating contact-driven vs. fantasy-driven child sex offenders**(2019), Kathryn C Seigfried-Spellar et al. Forensic Science International (Online); DOI:10.1016/j.forsciint.2019.02.028  
+The Chat Analysis Triage Tool (CATT) is an investigative tool based on natural language processing methods, for analyzing and comparing chats between minors and contact-driven vs. non-contract driven offenders. Using an SVM classifier, classes were differentiated based on character trigrams. The algorithms provide an identification of an offender’s risk level based on the likelihood of contact offending as inferred from the model, which assists law enforcement in the triage and prioritization of cases involving the sexual solicitation of minors.  
+
+- **CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service**(2019), Marco Lippi et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, 117-139. [[PDF]](https://arxiv.org/pdf/1805.01217.pdf)
+
+- **Deep learning in law: early adaptation and legal word embeddings trained on large corpora**(2019), Ilias Chalkidis et al. [[PDF](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
 
 ----------
 ### Project ###
@@ -86,7 +89,7 @@ To be updated.
 
 
 ### Future Work ###
-Ideas about issues for future study:  
+Issues for future study:  
 - improving access to annotated versions of statutes, ordinances, and regulations
-- provide legal text augmented with definitions and summaries available as the user reads the text
-
+- augmenting legal text with definitions and summaries available on demand as the user reads the text
+- merging related laws together to provide a more thorough summary of the applicable laws on demand in response to a user's question
