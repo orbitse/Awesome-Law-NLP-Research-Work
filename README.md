@@ -17,8 +17,8 @@ __Example companies__
 
 #### Repository Outline ####
   - [Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#papers)
-  - [Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#project)  
-  - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#futurework)
+  - [Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#current-project)  
+  - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future-work)
 
 ----------
 
@@ -106,7 +106,7 @@ From Abstract: The early adaptation of Deep Learning in legal analytics focusing
 From Abstract: This paper proposes several recurrent neural network-based models for recognizing requisite and effectuation (RE) parts in legal text. Recognizing requisite and effectuation parts, called the RRE task, can be modeled as a sequence labeling problem. They propose a modification of the Bidirectional Long Short-Term Memory-Conditional Random Fields model (BiLSTM-CRF) to include the use of external features to improve the performance of deep learning models in case a large annotated corpora is not available.  
 
 ----------
-### Project ###
+### Current Project ###
 
 My current work employs NLP techniques to classify and compare text in Washington state's statutes, the Revised Code of Washington (RCW), and opinions from the Washington State Supreme Court. To be updated.  
 
