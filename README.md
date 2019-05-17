@@ -4,9 +4,9 @@ The EU has funded several research projects to improve computational legal analy
 **`This repository will be updated gradually.`**
 
 ----------
-###- Outline
-	- [Papers](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#paper)
-	- [Project](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#project) 
+### Outline ###
+  - [Papers](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#paper)
+  - [Project](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#project) 
 
 ----------
 
