@@ -15,13 +15,13 @@ The EU has funded several research projects to improve computational legal analy
 
 #### &nbsp;&nbsp;&nbsp;2016 ####
 
-- **Lexical-Morphological Modeling for Legal Text Analysis**(2016), Danilo S. Carvalhol et al. DOI: 10.1007/978-3-319-50953-2 [[PDF]](https://www.researchgate.net/publication/305400373_Lexical-Morphological_Modeling_for_Legal_Text_Analysis)  
+- **Lexical-Morphological Modeling for Legal Text Analysis**(2016), Danilo S. Carvalhol et al., DOI: 10.1007/978-3-319-50953-2 [[PDF]](https://www.researchgate.net/publication/305400373_Lexical-Morphological_Modeling_for_Legal_Text_Analysis)  
 
 #### &nbsp;&nbsp;&nbsp;2017 ####
 
 - **Applying Deep Neural Network to Retrieve Relevant Civil Law Articles**(2017), Anh Hang Nga Tran et al. [[PDF](https://aclanthology.info/papers/R17-2007/r17-2007)]  
 
-- **A Convolutional Neural Network in Legal Question Answering**(2017), DOI: 10.1007/978-3-319-50953-2_20 [[PDF]](https://arxiv.org/pdf/1703.05320.pdf) 
+- **A Convolutional Neural Network in Legal Question Answering**(2017), Mi-Young Kim et al., DOI: 10.1007/978-3-319-50953-2_20 [[PDF]](https://arxiv.org/pdf/1703.05320.pdf) 
 
 - **Exploring the use of text classification in the legal domain**(2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1710.09306.pdf)]  
 
@@ -69,6 +69,8 @@ The EU has funded several research projects to improve computational legal analy
 
 - **Overview of cail2018: legal judgment prediction competition**(2018), Haoxi Zhong et al. [[PDF](https://arxiv.org/pdf/1810.05851.pdf)]   [[Code](https://github.com/thunlp/CAIL)]  
 
+- **Recurrent neural network-based models for recognizing requisite and effectuation parts in legal texts**(2018), N. Truong-Son et al., Artificial Intelligence and Law, vol. 26, (2), pp. 169-199 
+
 - **Research and Design on Cognitive Computing Framework for Predicting Judicial Decisions**(2018), Jiajing Li et al. [[PDF](https://link.springer.com/article/10.1007/s11265-018-1429-9)]  
 
 - **SECaps: A Sequence Enhanced Capsule Model for Charge Prediction**(2018), Congqing He et al. [[PDF](https://arxiv.org/pdf/1810.04465.pdf)]  
@@ -78,9 +80,11 @@ The EU has funded several research projects to improve computational legal analy
 - **Chat Analysis Triage Tool: Differentiating contact-driven vs. fantasy-driven child sex offenders**(2019), Kathryn C Seigfried-Spellar et al. Forensic Science International (Online); DOI:10.1016/j.forsciint.2019.02.028  
 The Chat Analysis Triage Tool (CATT) is an investigative tool based on natural language processing methods, for analyzing and comparing chats between minors and contact-driven vs. non-contract driven offenders. Using an SVM classifier, classes were differentiated based on character trigrams. The algorithms provide an identification of an offender’s risk level based on the likelihood of contact offending as inferred from the model, which assists law enforcement in the triage and prioritization of cases involving the sexual solicitation of minors.  
 
-- **CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service**(2019), Marco Lippi et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, 117-139. [[PDF]](https://arxiv.org/pdf/1805.01217.pdf)
+- **CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service**(2019), Marco Lippi et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 117-139. [[PDF]](https://arxiv.org/pdf/1805.01217.pdf)
 
 - **Deep learning in law: early adaptation and legal word embeddings trained on large corpora**(2019), Ilias Chalkidis et al. [[PDF](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
+
+- **Semi-automatic knowledge population in a legal document management system**(2019), Guido Boella et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 227-251. DOI:10.1007/s10506-018-9239-8  [PDF](https://scholar.google.com/scholar?hl=en&lr=&q=Recurrent%20neural%20network-based%20models%20for%20recognizing%20requisite%20and%20effectuation%20parts%20in%20legal%20texts+author%3ANguyen)
 
 ----------
 ### Project ###
