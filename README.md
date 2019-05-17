@@ -1,11 +1,15 @@
 ## Data Science and Law
-The intersection between machine learning and the law has many names, _e.g._ computational law, legal analytics, legal informatics, or empirical legal studies. This repository highlights recent natural language processing (NLP) related work in the field of law. This overview focuses primarily on applying NLP techniques to publicly accessible legal text to improve both, access to and understanding of, the law.  
+The intersection between machine learning and the law has many names, _e.g._ computational law, legal analytics, legal informatics, or empirical legal studies. The automation can help improve many aspects of the law. Programs can review contracts to identify risks and problematic language, make predictions about the outcomes of legal proceedings, and help law enforcement identify criminal behavior. Lawyer-bots can answer simple questions. But, in order to apply probabilistic models to the law, you need to understand legal language.  
+
+This repository highlights recent natural language processing (NLP) related work in the field of law. This overview focuses primarily on applying NLP techniques to publicly accessible legal text to improve both, access to and understanding of, the law.  
 
 __Example projects__   
 
-The EU has funded several research projects to improve computational legal analysis for the public good, _e.g._ ‘MIREL: MIning and REasoning with Legal texts’—[http://www.mirelproject.eu](http://www.mirelproject.eu).  
+The European Union funds research projects to improve computational legal analysis for the public good. For example, the [MIREL](http://www.mirelproject.eu): MIning and REasoning with Legal texts addresses issues like legal interpretation in mining and reasoning, how to handle big legal data, and regulatory compliance.  
 
 The Stanford Law School supports several [computational law](http://logic.stanford.edu/complaw/complaw.html) projects through [CodeX](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/codex-projects/#slsnav-current-codex-projects). CodeX's research and development focuses on the automation and mechanization of legal analysis in hopes of improving legal efficiency, transparency, and access to legal systems around the world.  
+
+The [Stanford Legal Design Lab](https://law.stanford.edu/organizations/pages/legal-design-lab/) and [Suffolk Law School’s Legal Innovation and Technology Lab](https://suffolklitlab.org) created a machine learning labeling game called [Learned Hands](https://learnedhands.law.stanford.edu). Players read people’s legal stories and spot legal issues. The game-play generates labeled data for training Access to Justice AI models to automatically identify people’s legal problems.  
 
 The [American Constitution Society for Law and Policy](https://www.acslaw.org) created the [State Bench Database](https://gavelgap.org) with 10,000+ judges on state courts of general jurisdiction in all 50 states. Using this data, they compared the gender, racial, and ethnic composition of state courts with the general population in each state. They found that courts are not representative of the people whom they serve; this disparity is [The Gavel Gap](https://gavelgap.org).  
 
@@ -15,14 +19,21 @@ __Example companies__
 
 [Ravel](https://home.ravellaw.com) uses data visualization to show how the case law evolved and how legal topics cluster. Before Ravel was purchased by LexisNexus, it was a Codex Affiliate Project.  
 
+[Wevorce](https://www.wevorce.com) provides a self-guided online divorce for a fraction of the cost of a typical divorce settlement. Along with some support from real people, an AI-powered machine guides couples through the critical decisions in their particular circumstances; like TurboTax for divorces.
+
 #### Repository Outline ####
   - [Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#papers)
-  - [Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#current-project)  
+  - [Current Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#current-project)  
   - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future-work)
 
 ----------
 
 ### Papers ###
+
+#### &nbsp;&nbsp;&nbsp;2014 ####
+
+- __Machine Learning and Law__ (2014). Harry Surden, Washington Law Review, Vol. 89, No. 1, (March 26, 2014). [[PDF](https://ssrn.com/abstract=2417415)]  
+From Abstract: This Article explores the application of machine learning techniques within the practice of law. Broadly speaking “machine learning” refers to computer algorithms that have the ability to “learn” or improve in performance over time on some task. In general, machine learning algorithms are designed to detect patterns in data and then apply these patterns going forward to new data in order to automate particular tasks. If performing well, machine learning algorithms can produce automated results that approximate those that would have been made by a similarly situated person.  
 
 #### &nbsp;&nbsp;&nbsp;2016 ####
 
