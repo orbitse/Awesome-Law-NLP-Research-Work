@@ -2,11 +2,17 @@
 The intersection between machine learning and the law has many names, _e.g._ computational law, legal analytics, legal informatics, or empirical legal studies. This repository highlights recent natural language processing (NLP) related work in the field of law. This overview focuses primarily on applying NLP techniques to publicly accessible legal text to improve both, access to and understanding of, the law.  
 
 __Example projects__   
+
 The EU has funded several research projects to improve computational legal analysis for the public good, _e.g._ ‘MIREL: MIning and REasoning with Legal texts’—[http://www.mirelproject.eu](http://www.mirelproject.eu).  
+
 The Stanford Law School supports several [computational law](http://logic.stanford.edu/complaw/complaw.html) projects through [CodeX](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/codex-projects/#slsnav-current-codex-projects). CodeX's research and development focuses on the automation and mechanization of legal analysis in hopes of improving legal efficiency, transparency, and access to legal systems around the world.  
-The American Constitution Society for Law and Policy created the State Bench Database with 10,000+ judges on state courts of general jurisdiction in all 50 states. Using this data, they compared the gender, racial, and ethnic composition of state courts with the general population in each state. They found that courts are not representative of the people whom they serve; this disparity is [The Gavel Gap](https://gavelgap.org).  
+
+The [American Constitution Society for Law and Policy](https://www.acslaw.org) created the [State Bench Database](https://gavelgap.org) with 10,000+ judges on state courts of general jurisdiction in all 50 states. Using this data, they compared the gender, racial, and ethnic composition of state courts with the general population in each state. They found that courts are not representative of the people whom they serve; this disparity is [The Gavel Gap](https://gavelgap.org).  
+
+The [Legislative Explorer](http://www.legex.org/index.html) from the [Center for American Politics and Public Policy](http://cappp.org) at the University of Washington is an "interactive visualization that allows anyone to explore actual patterns of lawmaking in Congress." The congressional bill data comes from the [Congeessional Bills Project](http://congressionalbills.org).  
 
 __Example companies__  
+
 [Ravel](https://home.ravellaw.com) uses data visualization to show how the case law evolved and how legal topics cluster. Before Ravel was purchased by LexisNexus, it was a Codex Affiliate Project.  
 
 #### Repository Outline ####
