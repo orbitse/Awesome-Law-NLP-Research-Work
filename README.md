@@ -3,7 +3,16 @@ The intersection between machine learning and the law has many names, _e.g._ com
 
 This repository highlights recent natural language processing (NLP) work in the legal field. Applying NLP techniques to publicly accessible legal text to improve both, access to and understanding of, the law is especially important.  
 
-__Example projects__   
+#### Repository Outline ####
+  - [Relevant Projects](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-projects)
+  - [Relevant Companies](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-companies)
+  - [Relevant Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-papers)
+  - [Current Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#current-project)  
+  - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future-work)
+
+----------
+
+### Relevant Projects  
 
 The European Union funds research projects to improve computational legal analysis for the public good. For example, the [MIREL](http://www.mirelproject.eu): MIning and REasoning with Legal texts addresses issues like legal interpretation in mining and reasoning, how to handle big legal data, and regulatory compliance.  
 
@@ -15,7 +24,9 @@ The [American Constitution Society for Law and Policy](https://www.acslaw.org) c
 
 The [Legislative Explorer](http://www.legex.org/index.html) from the [Center for American Politics and Public Policy](http://cappp.org) at the University of Washington is an "interactive visualization that allows anyone to explore actual patterns of lawmaking in Congress." The congressional bill data comes from the [Congeessional Bills Project](http://congressionalbills.org).  
 
-__Example companies__  
+[California Civic Data Coalition](http://cjlab.stanford.edu/projects/california-civic-data-coalition/) is a partnership between the Los Angeles Times Data Desk, the San Francisco Chronicle, The Center for Investigative Reporting and Stanford’s Computational Journalism Lab. The Coalition's purpose is to "create software that makes California's public data easier to analyze." To that end, the Coalition makes open-source software and campaign finance data available at https://www.californiacivicdata.org. The data comes from the California Secretary of State's non-user friendly CAL-ACCESS database, consisting of 80 database tables.   
+
+### Relevant Companies  
 
 [Bloomberg Law](https://pro.bloomberglaw.com/ai-analytics/) provides several AI tools along with 13+ million published and unpublished state and federal court opinions. With "Litigation Analytics," users can search by company, law firm, attorney, and judge, then "[v]isualize trends, predict outcomes, and develop an informed strategy." "Points of Law" applies machine learning to case law research so users can "[q]uickly find the leading case, the essence of a court’s holding, and the best language to support your legal argument."  
 
@@ -23,14 +34,7 @@ __Example companies__
 
 [Wevorce](https://www.wevorce.com) provides a self-guided online divorce for a fraction of the cost of a typical divorce settlement. Along with some support from real people, an AI-powered machine guides couples through the critical decisions in their particular circumstances; like TurboTax for divorces.
 
-#### Repository Outline ####
-  - [Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#papers)
-  - [Current Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#current-project)  
-  - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future-work)
-
-----------
-
-### Papers ###
+### Relevant Papers ###
 
 #### &nbsp;&nbsp;&nbsp;2014 ####
 
@@ -121,10 +125,11 @@ From Abstract: This paper proposes several recurrent neural network-based models
 ----------
 ### Current Project ###
 
-My current work employs NLP techniques to classify and compare text in Washington state's statutes, the Revised Code of Washington (RCW), and opinions from the Washington State Supreme Court. To be updated.  
+My current work employs NLP techniques to classify and compare text in Washington state's statutes, the Revised Code of Washington (RCW), and opinions from the Washington State Supreme Court.  
+Project details to be updated.  
 
 ### Future Work ###
-Possible issues for future study:  
+Possible areas of future study:  
 - improving access to annotated versions of statutes, ordinances, and regulations
 - augmenting legal text with definitions and summaries available on demand as the user reads the text
 - merging related laws together to provide a more thorough summary of the applicable laws on demand in response to a user's question
