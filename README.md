@@ -5,8 +5,8 @@ This repository highlights recent natural language processing (NLP) work in the 
 
 #### Repository Outline ####
   - [Relevant Projects](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-projects)
-  - [Relevant Companies](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-companies)
-  - [Relevant Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-papers)
+  - [Example Companies](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-companies)
+  - [Recent Papers](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#relevant-papers)
   - [Current Project](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#current-project)  
   - [Future Work](https://github.com/orbitse/Awesome-Law-NLP-Research-Work#future-work)
 
@@ -26,7 +26,7 @@ The [Legislative Explorer](http://www.legex.org/index.html) from the [Center for
 
 [California Civic Data Coalition](http://cjlab.stanford.edu/projects/california-civic-data-coalition/) is a partnership between the Los Angeles Times Data Desk, the San Francisco Chronicle, The Center for Investigative Reporting and Stanford’s Computational Journalism Lab. The Coalition's purpose is to "create software that makes California's public data easier to analyze." To that end, the Coalition makes open-source software and campaign finance data available at https://www.californiacivicdata.org. The data comes from the California Secretary of State's non-user friendly CAL-ACCESS database, consisting of 80 database tables.   
 
-### Relevant Companies  
+### Example Companies  
 
 [Bloomberg Law](https://pro.bloomberglaw.com/ai-analytics/) provides several AI tools along with 13+ million published and unpublished state and federal court opinions. With "Litigation Analytics," users can search by company, law firm, attorney, and judge, then "[v]isualize trends, predict outcomes, and develop an informed strategy." "Points of Law" applies machine learning to case law research so users can "[q]uickly find the leading case, the essence of a court’s holding, and the best language to support your legal argument."  
 
@@ -34,12 +34,7 @@ The [Legislative Explorer](http://www.legex.org/index.html) from the [Center for
 
 [Wevorce](https://www.wevorce.com) provides a self-guided online divorce for a fraction of the cost of a typical divorce settlement. Along with some support from real people, an AI-powered machine guides couples through the critical decisions in their particular circumstances; like TurboTax for divorces.
 
-### Relevant Papers ###
-
-#### &nbsp;&nbsp;&nbsp;2014 ####
-
-- __Machine Learning and Law__ (2014). Harry Surden, Washington Law Review, Vol. 89, No. 1, (March 26, 2014). [[PDF](https://ssrn.com/abstract=2417415)]  
-From Abstract: This Article explores the application of machine learning techniques within the practice of law. Broadly speaking “machine learning” refers to computer algorithms that have the ability to “learn” or improve in performance over time on some task. In general, machine learning algorithms are designed to detect patterns in data and then apply these patterns going forward to new data in order to automate particular tasks. If performing well, machine learning algorithms can produce automated results that approximate those that would have been made by a similarly situated person.  
+### Recent Papers ###
 
 #### &nbsp;&nbsp;&nbsp;2016 ####
 
@@ -121,6 +116,11 @@ From Abstract: The early adaptation of Deep Learning in legal analytics focusing
 
 - **Semi-automatic knowledge population in a legal document management system** (2019), Guido Boella et al. Artificial Intelligence and Law; Dordrecht Vol. 27, Iss. 2, pp. 227-251. DOI:10.1007/s10506-018-9239-8  [[PDF]](https://scholar.google.com/scholar?hl=en&lr=&q=Recurrent%20neural%20network-based%20models%20for%20recognizing%20requisite%20and%20effectuation%20parts%20in%20legal%20texts+author%3ANguyen)  
 From Abstract: This paper proposes several recurrent neural network-based models for recognizing requisite and effectuation (RE) parts in legal text. Recognizing requisite and effectuation parts, called the RRE task, can be modeled as a sequence labeling problem. They propose a modification of the Bidirectional Long Short-Term Memory-Conditional Random Fields model (BiLSTM-CRF) to include the use of external features to improve the performance of deep learning models in case a large annotated corpora is not available.  
+
+#### &nbsp;&nbsp;&nbsp;2014 ####
+
+- __Machine Learning and Law__ (2014). Harry Surden, Washington Law Review, Vol. 89, No. 1, (March 26, 2014). [[PDF](https://ssrn.com/abstract=2417415)]  
+From Abstract: This Article explores the application of machine learning techniques within the practice of law. Broadly speaking “machine learning” refers to computer algorithms that have the ability to “learn” or improve in performance over time on some task. In general, machine learning algorithms are designed to detect patterns in data and then apply these patterns going forward to new data in order to automate particular tasks. If performing well, machine learning algorithms can produce automated results that approximate those that would have been made by a similarly situated person.  
 
 ----------
 ### Current Project ###
